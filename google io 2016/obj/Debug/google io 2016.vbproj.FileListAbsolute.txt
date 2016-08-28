@@ -1,0 +1,12 @@
+C:\Users\Alumno\Desktop\visual\google io 2016\google io 2016\bin\Debug\google io 2016.exe.config
+C:\Users\Alumno\Desktop\visual\google io 2016\google io 2016\bin\Debug\google io 2016.exe
+C:\Users\Alumno\Desktop\visual\google io 2016\google io 2016\bin\Debug\google io 2016.pdb
+C:\Users\Alumno\Desktop\visual\google io 2016\google io 2016\bin\Debug\google io 2016.xml
+C:\Users\Alumno\Desktop\visual\google io 2016\google io 2016\obj\Debug\google io 2016.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\visual\google io 2016\google io 2016\obj\Debug\google_io_2016.Form1.resources
+C:\Users\Alumno\Desktop\visual\google io 2016\google io 2016\obj\Debug\google_io_2016.mainform.resources
+C:\Users\Alumno\Desktop\visual\google io 2016\google io 2016\obj\Debug\google_io_2016.Resources.resources
+C:\Users\Alumno\Desktop\visual\google io 2016\google io 2016\obj\Debug\google io 2016.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\visual\google io 2016\google io 2016\obj\Debug\google io 2016.exe
+C:\Users\Alumno\Desktop\visual\google io 2016\google io 2016\obj\Debug\google io 2016.xml
+C:\Users\Alumno\Desktop\visual\google io 2016\google io 2016\obj\Debug\google io 2016.pdb
